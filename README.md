@@ -6,7 +6,7 @@
 
 styledbytmark ecommerce website client code
 
-## Deployed
+## Deployment
 - http://styledbytmark.herokuapp.com/
 - API: http://styledbytmark-api.herokuapp.com/
 
